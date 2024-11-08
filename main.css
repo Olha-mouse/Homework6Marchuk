@@ -1,0 +1,58 @@
+*{
+   
+    padding:10px;
+    box-sizing:border-box;
+    text-align: center;
+    margin:20px}
+
+
+.cont1 {
+    display:inline-block;
+}
+.login 
+{
+    Color:white;
+    background-color: green;
+}
+
+.h{
+    font-size:15px;
+    text-align: left;
+    max-width: 100%;
+    padding-left: 100px;
+    margin-bottom: 0em;
+        
+}
+.h1{
+    font-size:50px;
+    text-align: left;
+    max-width: 50%;
+    padding-left:100px;
+    margin-top: 2px;
+    margin-bottom: 1em;
+    margin-top: 0.5 em;
+}
+.h2 {
+    font-size:13px;
+    text-align: left;
+    padding-left:100px;
+    max-width: 40%;
+    margin-top: 0,5em;
+   
+}
+.s{ 
+    color:green;
+    padding-left:0px;
+}
+a {
+    text-decoration: none; 
+    }
+.img {
+    display: inline-block;
+}
+.button2
+{
+    Color:white;
+    background-color: green;
+    text-align: left;
+}
